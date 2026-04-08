@@ -2,6 +2,8 @@
 
 AURA is an interactive playground that transforms sound into generative art. Built with SwiftUI and AVFoundation, it uses real-time frequency analysis to bridge the gap between our senses, allowing users to "see" and "feel" the architecture of their own voice.
 
+![image_11](https://github.com/user-attachments/assets/5096bc9e-5ec6-4818-ac5c-27f89e06716e)
+
 **Swift Student Challenge**
 
 This project was developed for the 2026 Swift Student Challenge. It explores the concept of Sensory Substitution using high-fidelity haptics to translate audio energy into tactile feedback.
