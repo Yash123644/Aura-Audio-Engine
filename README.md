@@ -16,13 +16,21 @@ AURA features a suite of real-time generative engines that react to live microph
 
 A digital "rain" visualizer that calculates velocity and brightness based on the live amplitude of the user's voice.
 
-SS
+<div align="center">
+
+<img width="400" alt="Screenshot 2026-06-15 at 1 10 28 AM-portrait" src="https://github.com/user-attachments/assets/c188d54e-42d5-48f9-b07c-1888da49be09" />
+
+</div>
 
 **Terrain Engine**
 
 Uses complex trigonometric calculations to render a 3D topographic landscape. The elevation of the terrain is mapped directly to the frequency history of the audio signal.
 
-SS
+<div align="center">
+
+<img width="400" alt="Screenshot 2026-06-15 at 1 10 57 AM-portrait" src="https://github.com/user-attachments/assets/369548c2-92bd-473b-9c8a-33fa88cf426a" />
+
+</div>
 
 **Data Log**
 
