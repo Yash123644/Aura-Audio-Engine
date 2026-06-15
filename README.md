@@ -18,6 +18,12 @@ This project was developed for the 2026 Swift Student Challenge. It explores the
 
 AURA features a suite of real-time generative engines that react to live microphone input:
 
+<div align="center">
+
+<img width="500" alt="Screenshot 2026-06-15 at 1 21 13 AM - Edited" src="https://github.com/user-attachments/assets/0ababffd-0ea3-45e3-aea9-cd5c70fe9370" />
+
+</div>
+
 **Matrix Engine**
 
 A digital "rain" visualizer that calculates velocity and brightness based on the live amplitude of the user's voice.
