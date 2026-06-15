@@ -28,7 +28,7 @@ SS
 
 A built-in gallery that allows users to save and replay their favorite visual "memories" using custom data persistence logic.
 
-<img width="800" alt="Screenshot3" src="https://github.com/user-attachments/assets/b8cf14f0-84f7-4385-a9d6-1f3ac975651e" />
+<img width="400" alt="Screenshot3" src="https://github.com/user-attachments/assets/b8cf14f0-84f7-4385-a9d6-1f3ac975651e" />
 
 **Technologies**
 
