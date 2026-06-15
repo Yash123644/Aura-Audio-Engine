@@ -2,7 +2,7 @@
 
 AURA is an interactive playground that transforms sound into generative art. Built with SwiftUI and AVFoundation, it uses real-time frequency analysis to bridge the gap between our senses, allowing users to "see" and "feel" the architecture of their own voice.
 
-<img width="600" alt="image_11 (1)" src="https://github.com/user-attachments/assets/246554f5-44f4-42d7-8e78-c280ba72c6d7" />
+<img width="2000" alt="image_11 (1)" src="https://github.com/user-attachments/assets/246554f5-44f4-42d7-8e78-c280ba72c6d7" />
 
 **Swift Student Challenge**
 
@@ -28,7 +28,7 @@ SS
 
 A built-in gallery that allows users to save and replay their favorite visual "memories" using custom data persistence logic.
 
-<img width="1419" height="2796" alt="Screenshot3" src="https://github.com/user-attachments/assets/b8cf14f0-84f7-4385-a9d6-1f3ac975651e" />
+<img width="800" alt="Screenshot3" src="https://github.com/user-attachments/assets/b8cf14f0-84f7-4385-a9d6-1f3ac975651e" />
 
 **Technologies**
 
