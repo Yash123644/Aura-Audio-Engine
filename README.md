@@ -8,6 +8,12 @@ AURA is an interactive playground that transforms sound into generative art. Bui
 
 This project was developed for the 2026 Swift Student Challenge. It explores the concept of Sensory Substitution using high-fidelity haptics to translate audio energy into tactile feedback.
 
+<div align="center">
+
+<img width="300" alt="ssc-logo-code-status_2x" src="https://github.com/user-attachments/assets/f8cdf3de-08ae-442a-a65b-1015441d886f" />
+
+</div>
+
 **Overview**
 
 AURA features a suite of real-time generative engines that react to live microphone input:
