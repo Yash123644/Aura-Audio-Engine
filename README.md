@@ -2,7 +2,7 @@
 
 AURA is an interactive playground that transforms sound into generative art. Built with SwiftUI and AVFoundation, it uses real-time frequency analysis to bridge the gap between our senses, allowing users to "see" and "feel" the architecture of their own voice.
 
-<img width="2000" alt="image_11 (1)" src="https://github.com/user-attachments/assets/246554f5-44f4-42d7-8e78-c280ba72c6d7" />
+<img width="1500" alt="image_11 (1)" src="https://github.com/user-attachments/assets/246554f5-44f4-42d7-8e78-c280ba72c6d7" />
 
 **Swift Student Challenge**
 
@@ -66,6 +66,12 @@ CoreHaptics: To create a tactile "sound feel" through the iPhone Taptic Engine.
 
 Observation: Utilizing the modern Swift Observation framework for efficient state management.
 
+<div align="center">
+
+<img width="350" alt="swiftui-256x256_2x" src="https://github.com/user-attachments/assets/c21de5ca-cf34-44c0-9daa-5b2a1dd58e1b" />
+
+</div>
+
 **The Mathematics**
 
 To ensure the visuals were fluid without causing compiler timeouts, the rendering logic utilizes pre-calculated sub-expressions for wave generation.
@@ -75,6 +81,18 @@ $$y = mid + (\sin(\theta) \cdot (Amplitude \cdot 90.0 \cdot PerspectiveScale))$$
 
 This allows the landscape to "breathe" in sync with the pitch and volume of incoming audio.
 
+<div align="center">
+
+<img width="600" alt="Screenshot 2026-06-15 at 1 30 49 AM" src="https://github.com/user-attachments/assets/76eba3e3-82b1-4e55-ad3c-00276a7dda60" />
+
+</div>
+
 **Accessibility**
 
 Accessibility was a foundational pillar of the design. AURA utilizes Sensory Substitution by scaling Haptic Intensity directly with audio volume. This allows users with hearing impairments to feel the rhythm and energy of their environment through the device’s vibration motor.
+
+<div align="center">
+
+<img width="500" alt="kUvaxoYwuPxaEseH_6bd3a67d-3a6e-482b-b60f-01d01db10432 - Edited - Edited" src="https://github.com/user-attachments/assets/1bc939ce-87c4-41a4-854d-bbc628eb023d" />
+
+</div>
