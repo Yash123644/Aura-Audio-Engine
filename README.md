@@ -1,4 +1,4 @@
-**AURA**
+**ΛＵＲΛ**
 
 AURA is an interactive playground that transforms sound into generative art. Built with SwiftUI and AVFoundation, it uses real-time frequency analysis to bridge the gap between our senses, allowing users to "see" and "feel" the architecture of their own voice.
 
