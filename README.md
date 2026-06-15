@@ -26,8 +26,6 @@ SS
 
 **Data Log**
 
-A built-in gallery that allows users to save and replay their favorite visual "memories" using custom data persistence logic.
-
 <div align="center">
 
   <p>A built-in gallery that allows users to save and replay their favorite visual "memories" using custom data persistence logic.</p>
