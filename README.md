@@ -1,4 +1,4 @@
-<h1 align="center" style="letter-spacing: 4px;">**ΛＵＲΛ**</h1>
+<h1 align="center" style="letter-spacing: 4px;">ΛＵＲΛ</h1>
 
 AURA is an interactive playground that transforms sound into generative art. Built with SwiftUI and AVFoundation, it uses real-time frequency analysis to bridge the gap between our senses, allowing users to "see" and "feel" the architecture of their own voice.
 
